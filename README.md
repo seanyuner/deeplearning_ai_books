@@ -1,4 +1,4 @@
-#### 在原作者黄海广的基础上，增加了课件和自己学习过程中的手写notes
+#### 在原作者[黄海广](https://github.com/fengdu78)的基础上，增加了[课件](https://github.com/seanyuner/deeplearning_ai_books/tree/master/%E8%AF%BE%E4%BB%B6)和自己学习过程中的手写notes：[my notes.pdf](https://github.com/seanyuner/deeplearning_ai_books/blob/master/my%20notes.pdf)
 
 附：自己整理的课程框架：
 ![](./images/deeplearning.ai.png)
